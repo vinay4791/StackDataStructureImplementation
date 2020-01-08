@@ -31,7 +31,7 @@ public class Stack {
 		}
 	}
 
-	// function will written the element which is placed on the top right now!!!
+	// function will return the element which is placed on the top right now!!!
 	public long peek() {
 		return stackArray[top];
 	}
